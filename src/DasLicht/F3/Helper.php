@@ -16,7 +16,7 @@ class Helper
         //       }
         //     } 
         // });
-        \ChromePhp::log('INIT'); 
+        \ChromePhp::log('INIT!'); 
 	}
 
     public static function slugify($string)
