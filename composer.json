@@ -1,0 +1,8 @@
+{
+	"name": "daslicht/f3-helper",
+	"autoload": {
+        "psr-0" : {
+            "DasLicht\\F3" : "src"
+        }
+    }
+}
